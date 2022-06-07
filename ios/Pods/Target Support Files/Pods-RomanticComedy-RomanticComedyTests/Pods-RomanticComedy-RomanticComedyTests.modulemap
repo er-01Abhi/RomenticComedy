@@ -1,0 +1,6 @@
+module Pods_RomanticComedy_RomanticComedyTests {
+  umbrella header "Pods-RomanticComedy-RomanticComedyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
